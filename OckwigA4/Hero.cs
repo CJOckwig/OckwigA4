@@ -42,12 +42,16 @@ namespace HeroNS
          * ***  IN/OUT ARGS :  none                                          ***
          * ***  RETURN :  void                                               *** 
          * ********************************************************************/
-        public Hero(string n = "Geralt", Global.RaceType r = Global.RaceType.WITCHER, short h = 200, short p = 50, Global.WeaponType w = Global.WeaponType.AXE)
+        public Hero():base()
+        {
+
+        }
+        public Hero(string n, Global.RaceType r, short h, short p = 50, Global.WeaponType w = Global.WeaponType.AXE) : base (n, r, h)
         {
             Name = n;
             Race = r;
-            Weapon = w;
             Health = h;
+            Weapon = w;
             Protection = p;
 
         }

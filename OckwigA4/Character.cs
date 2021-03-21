@@ -8,13 +8,27 @@ namespace HeroNS
 {
     abstract public class Character
     {
-        public Character(string n = "Geralt", Global.RaceType r = Global.RaceType.WITCHER, short h = 200, short p = 50, Global.WeaponType w = Global.WeaponType.AXE)
+        /*********************************************************************** 
+         * ***  METHOD  Hero                                                *** 
+         * ********************************************************************* 
+         * ***  DESCRIPTION :  Overloaded constructor. Creates new Hero object   *** 
+         * ***  INPUT ARGS :  Hero object                                    *** 
+         * ***  OUTPUT ARGS :  none                                          ***
+         * ***  IN/OUT ARGS :  none                                          ***
+         * ***  RETURN :  void                                               *** 
+         * ********************************************************************/
+        public Character(string n = "Geralt", Global.RaceType r = Global.RaceType.WITCHER, short h = 200)
         {
             Name = n;
             Race = r;
             Health = h;
         }
-
+        public Character(Character c)
+        {
+            Name = c.Name;
+            Race = c.Race;
+            Health = c.Health;
+        }
 
         public string Name { get; set; }
         public Global.RaceType Race { get; set; }
