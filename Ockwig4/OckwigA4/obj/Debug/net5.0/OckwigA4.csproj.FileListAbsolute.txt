@@ -1,0 +1,16 @@
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\obj\Debug\net5.0\OckwigA4.csprojAssemblyReference.cache
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\obj\Debug\net5.0\OckwigA4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\obj\Debug\net5.0\OckwigA4.AssemblyInfoInputs.cache
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\obj\Debug\net5.0\OckwigA4.AssemblyInfo.cs
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\obj\Debug\net5.0\OckwigA4.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\bin\Debug\net5.0\OckwigA4.exe
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\bin\Debug\net5.0\OckwigA4.deps.json
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\bin\Debug\net5.0\OckwigA4.runtimeconfig.json
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\bin\Debug\net5.0\OckwigA4.runtimeconfig.dev.json
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\bin\Debug\net5.0\OckwigA4.dll
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\bin\Debug\net5.0\ref\OckwigA4.dll
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\bin\Debug\net5.0\OckwigA4.pdb
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\obj\Debug\net5.0\OckwigA4.dll
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\obj\Debug\net5.0\ref\OckwigA4.dll
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\obj\Debug\net5.0\OckwigA4.pdb
+C:\Users\Caleb\source\repos\Ockwig4\OckwigA4\obj\Debug\net5.0\OckwigA4.genruntimeconfig.cache
